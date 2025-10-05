@@ -5,7 +5,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:5173'],
+    'allowed_origins' => ['https://deploiment-front-nmtjiehy8-johanito95s-projects.vercel.app'],
 
     'allowed_origins_patterns' => [],
 
